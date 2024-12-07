@@ -1,124 +1,174 @@
 # INFO 7375: Branding and AI
-
-### **People**
-**Creative**: Nina Harris (Brand Director & Creative Visionary)  
-**AI**: Nik Bear Brown  
+### **INFO 7375: Branding and AI - Module 2: The Power of Brand Storytelling**
 
 ---
 
-### **Course Description**
+## **1. Fundamentals of Brand Storytelling**
 
-This course dives into the intersection of branding and artificial intelligence, providing students with practical tools and strategies to craft compelling brand identities. From personal branding to team-based branding initiatives, students will gain hands-on experience with cutting-edge AI tools like Adobe Express, ChatGPT, MidJourney, and more. The course culminates in the development of publishable assets such as professional ePubs, portfolios, and marketing deliverables. Students will tackle real-world challenges, ensuring their readiness for the competitive branding landscape.
+### **1.1 The Science of Storytelling**
+- **Neuroscience of Narrative:**
+  - Explore how stories activate emotional and memory centers in the brain.
+  - Understand the role of oxytocin in building trust and empathy (Paul J. Zak’s framework).
+- **Emotional Connections:**
+  - Craft stories that resonate emotionally with audiences.
+  - Establish relationships through shared values and experiences.
+- **Memory and Retention:**
+  - Leverage storytelling techniques to make brand messages more memorable.
 
----
-
-### **Learning Objectives**
-- Understand core branding principles, including storytelling, visual identity, and competitive analysis.
-- Leverage AI tools to optimize branding tasks and create impactful deliverables.
-- Develop and refine a personal brand portfolio using professional tools like Adobe Express.
-- Collaborate on team projects to reimagine and develop branding strategies for fictional and real-world scenarios.
-
----
-
-### **Course Schedule**
-
-#### **Module 1: Introduction to Branding and AI’s Role**
-- **Learning Outcomes**: Grasp foundational branding concepts (e.g., vision, coherence) and AI’s role in branding.
-- **Activities**:
-  - Lecture: Overview of branding components and AI tools like Adobe Express.
-  - Hands-On: Create a personal branding graphic (e.g., logo or tagline banner).
-  - Group Discussion: Analyze iconic brands (e.g., Airbnb) for branding consistency.
-- **Assignments**:
-  - Analyze a brand’s architecture and governance.
-  - Use AI (ChatGPT/Claude) for brand analysis and Adobe Express to create a visual asset.
+### **1.2 Story Elements in Branding**
+- **Character Development:**
+  - Define the role of the customer as the central character.
+  - Create relatable brand personas as supporting characters.
+- **Conflict and Resolution:**
+  - Address customer pain points through narrative arcs.
+  - Highlight how the brand resolves challenges.
+- **Story Arcs:**
+  - Map brand stories to classic arcs like “overcoming the monster” or “rags to riches.”
+- **Brand Voice and Tone:**
+  - Align storytelling with consistent voice and tone across platforms.
 
 ---
 
-#### **Module 2: The Power of Brand Storytelling**
-- **Learning Outcomes**: Understand storytelling's emotional impact on branding.
-- **Activities**:
-  - Lecture: Storytelling science (e.g., Paul J. Zak's framework).
-  - Workshop: Break down brand stories using narrative arcs.
-  - Hands-On: Design a narrative for a personal brand using Adobe Express.
-- **Assignments**:
-  - Draft a “Hero’s Journey” narrative for a personal brand.
-  - Use AI to analyze and enhance brand stories.
+## **2. Core Brand Story Frameworks**
+
+### **2.1 The Hero’s Journey in Branding**
+- **Call to Adventure:**
+  - Position the customer as a hero embarking on a transformative journey.
+- **Brand as Guide:**
+  - Frame the brand as the mentor offering tools, support, and wisdom.
+- **Transformation Narrative:**
+  - Showcase the customer’s growth and success through brand interaction.
+
+### **2.2 Modern Brand Story Structures**
+- **Mini-Narratives:**
+  - Create concise stories for social media and quick consumption.
+- **Visual Storytelling:**
+  - Use infographics, reels, and animations to tell impactful stories.
+- **Transmedia Narratives:**
+  - Integrate storytelling across platforms (e.g., website, social media, and email).
 
 ---
 
-#### **Module 3: Visual Identity and AI Image Analytics**
-- **Learning Outcomes**: Master typography, color theory, and iconography in branding.
-- **Activities**:
-  - Lecture: Principles of visual identity.
-  - Hands-On: Create logos, color schemes, and fonts in Adobe Express.
-  - Workshop: Develop a mood board for personal and team branding.
-- **Assignments**:
-  - Use MidJourney/DALL-E for inspiration and refine outputs in Adobe Express.
-  - Finalize branding assets for a team project.
+## **3. AI-Enhanced Story Development**
+
+### **3.1 Story Generation and Enhancement**
+- **Plot Development:**
+  - Use ChatGPT or Claude to outline brand narratives.
+- **Character Creation:**
+  - Develop relatable characters and archetypes using Jasper.ai.
+- **Narrative Expansion:**
+  - Refine and expand brand stories for different audiences.
+- **Story Validation:**
+  - Ensure consistency and resonance using tools like IBM Watson Tone Analyzer.
+
+### **3.2 Content Optimization**
+- **Emotional Resonance:**
+  - Use AI to test emotional impact and refine tone.
+- **Audience Alignment:**
+  - Match stories to demographic insights and preferences.
+- **Cultural Sensitivity:**
+  - Check for cultural relevance and avoid missteps using Resonance AI.
+- **Brand Consistency:**
+  - Align stories with overarching brand identity.
 
 ---
 
-#### **Module 4: Brand Guidelines and Consistency**
-- **Learning Outcomes**: Learn to create and maintain brand guidelines.
-- **Activities**:
-  - Lecture: Designing consistent brand touchpoints.
-  - Workshop: Use Adobe Express ePub tools for professional-grade guidelines.
-- **Assignments**:
-  - Create a comprehensive brand guideline ePub covering tone, visuals, and messaging.
-  - Use AI tools to ensure tone alignment (e.g., Grammarly).
+## **4. Visual Storytelling with AI**
+
+### **4.1 Story Visualization**
+- **Storyboard Creation:**
+  - Design storyboards for campaigns using Adobe Express or Canva AI.
+- **Image Sequence Design:**
+  - Generate story illustrations using MidJourney and DALL-E.
+- **Motion Graphics:**
+  - Create dynamic narratives with Kapwing or InVideo.
+
+### **4.2 Multi-Platform Story Design**
+- **Platform-Specific Adaptation:**
+  - Tailor stories for Instagram, LinkedIn, and YouTube audiences.
+- **Visual Consistency:**
+  - Use Adobe Firefly to ensure cohesive visuals across platforms.
+- **Cross-Media Integration:**
+  - Plan seamless narratives that transition across video, web, and social media.
 
 ---
 
-#### **Module 5: Competitive Analysis for Branding**
-- **Learning Outcomes**: Conduct competitive analysis and identify branding gaps.
-- **Activities**:
-  - Lecture: Market research techniques.
-  - Hands-On: Design SWOT diagrams using Adobe Express templates.
-- **Assignments**:
-  - Perform competitive analysis for personal/team brands.
-  - Integrate insights into a polished Adobe Express report.
+## **5. Brand Story Implementation**
+
+### **5.1 Story Integration**
+- **Website Narratives:**
+  - Embed compelling brand stories into About pages and case studies.
+- **Social Media Stories:**
+  - Craft Instagram stories and TikTok videos highlighting brand values.
+- **Marketing Materials:**
+  - Incorporate storytelling into brochures, presentations, and advertisements.
+
+### **5.2 Story Performance**
+- **Engagement Metrics:**
+  - Use tools like Sprout Social to track likes, shares, and comments.
+- **Emotional Impact:**
+  - Analyze audience responses using Persado or IBM Watson.
+- **Audience Response:**
+  - Gather feedback and refine stories based on real-world interactions.
 
 ---
 
-#### **Module 6: Messaging and Copywriting with AI**
-- **Learning Outcomes**: Develop brand-aligned messaging strategies.
-- **Activities**:
-  - Lecture: Crafting brand taglines and mission statements.
-  - Workshop: Use Jasper/Writesonic to create messaging.
-  - Hands-On: Design marketing materials using Adobe Express.
-- **Assignments**:
-  - Produce messaging assets aligned with branding tone.
-  - Experiment with AI tools for audience-specific messaging.
+## **Practical Exercises**
+
+### **1. Story Development Exercise**
+**Using ChatGPT/Claude:**
+- Input brand mission, values, and customer insights.
+- Generate a story framework based on the Hero’s Journey.
+- Refine the story with AI-driven suggestions.
+
+### **2. Visual Story Creation**
+**Using Adobe Express:**
+- Design a storyboard that outlines the flow of a brand campaign.
+- Use MidJourney to generate illustrations for key moments.
+- Develop visuals for multi-platform adaptation.
+
+### **3. Story Analysis Project**
+**Using IBM Watson Tone Analyzer:**
+- Input a drafted brand story.
+- Analyze emotional tone and cultural alignment.
+- Adjust narrative elements based on AI insights.
 
 ---
 
-#### **Module 7: Multimedia Branding with Adobe Express**
-- **Learning Outcomes**: Enhance branding through multimedia assets.
-- **Activities**:
-  - Workshop: Create multimedia portfolios using Adobe Spark Page.
-  - Hands-On: Design interactive brochures and presentations.
-- **Assignments**:
-  - Publish personal brand portfolios.
-  - Develop multimedia touchpoints for team branding projects.
+## **Recommended AI Tools**
+
+### **Story Development:**
+- **ChatGPT**: Generate and refine narrative frameworks.
+- **Claude**: Expand character arcs and enhance storytelling flow.
+- **Jasper.ai**: Craft taglines, slogans, and emotional copy.
+- **Story Chief**: Plan and organize content-driven storytelling.
+
+### **Visual Storytelling:**
+- **MidJourney**: Create imaginative brand visuals.
+- **Adobe Express**: Design cohesive storyboards and banners.
+- **Kapwing**: Produce animated and video content.
+- **Canva AI**: Develop story-based graphics and infographics.
+
+### **Story Analysis:**
+- **IBM Watson Tone Analyzer**: Evaluate tone alignment with brand goals.
+- **Persado**: Analyze emotional appeal and audience connection.
+- **Resonance AI**: Test cultural relevance and impact.
 
 ---
 
-### **Final Deliverables**
-1. **Personal Brand Portfolio**:
-   - Includes a tagline, visual identity, messaging, and multimedia assets.
-   - Published as an ePub or Spark Page.
-2. **Team Branding Package**:
-   - Comprehensive brand strategy, including visual assets, competitive analysis, and multimedia presentations.
+## **Deliverables**
 
----
+1. **Hero’s Journey Narrative:**
+   - Write a personal or brand-focused Hero’s Journey.
+   - Use AI tools to refine and validate the narrative.
+2. **Visual Storyboard:**
+   - Develop a storyboard for a marketing campaign.
+   - Integrate AI-generated images and motion graphics.
+3. **Story Performance Report:**
+   - Use analytics tools to assess the success of the implemented story.
+   - Provide recommendations for future story improvements.
 
-### **Instructor Credentials**
-**Nina Harris**  
-With over 25 years of experience in branding, Nina has worked with global brands like Sony, Charles Schwab, and Nike. As a former Creative/Brand Director, she led diverse teams, managed multimillion-dollar branding campaigns, and created over 10,000 proprietary visuals. Her expertise lies in storytelling, brand identity systems, and the seamless integration of branding elements across digital platforms. Nina’s passion for brand building is matched by her dedication to mentoring the next generation of creative leaders.  
-
-**Nik Bear Brown**  
-AI Professor Nik Bear Brown will support the course with cutting-edge insights on leveraging AI tools in branding. Nik’s expertise ensures students remain on the forefront of technological advancements in branding.
-
+Would you like more detailed examples, additional exercises, or expanded case studies?
 ---
 
 ### **Course Takeaways**
