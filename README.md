@@ -19,96 +19,168 @@ This course dives into the intersection of branding and artificial intelligence,
 - Collaborate on team projects to reimagine and develop branding strategies for fictional and real-world scenarios.
 
 ---
-
-### **Course Schedule**
-
-#### **Module 1: Introduction to Branding and AI’s Role**
-- **Learning Outcomes**: Grasp foundational branding concepts (e.g., vision, coherence) and AI’s role in branding.
-- **Activities**:
-  - Lecture: Overview of branding components and AI tools like Adobe Express.
-  - Hands-On: Create a personal branding graphic (e.g., logo or tagline banner).
-  - Group Discussion: Analyze iconic brands (e.g., Airbnb) for branding consistency.
-- **Assignments**:
-  - Analyze a brand’s architecture and governance.
-  - Use AI (ChatGPT/Claude) for brand analysis and Adobe Express to create a visual asset.
+### **INFO 7375: Branding and AI - Course Table of Contents**
 
 ---
 
-#### **Module 2: The Power of Brand Storytelling**
-- **Learning Outcomes**: Understand storytelling's emotional impact on branding.
-- **Activities**:
-  - Lecture: Storytelling science (e.g., Paul J. Zak's framework).
-  - Workshop: Break down brand stories using narrative arcs.
-  - Hands-On: Design a narrative for a personal brand using Adobe Express.
-- **Assignments**:
-  - Draft a “Hero’s Journey” narrative for a personal brand.
-  - Use AI to analyze and enhance brand stories.
+## **Module 1: Introduction to Branding and AI’s Role**
+### **Learning Objectives**
+- Understand foundational branding concepts, such as brand vision, coherence, and architecture.
+- Explore AI’s transformative role in modern branding practices.
+
+### **Content Outline**
+1. **Foundations of Modern Branding**
+   - Traditional vs. AI-enhanced branding
+   - Core components of branding: identity, vision, tone, and messaging
+   - Brand architecture and governance strategies
+   - The importance of consistency and coherence
+2. **AI Tools in the Branding Landscape**
+   - Overview of key AI platforms: Adobe Express, ChatGPT, and MidJourney
+   - Selecting and integrating AI tools into workflows
+   - Cost considerations and ethical implications of AI use in branding
 
 ---
 
-#### **Module 3: Visual Identity and AI Image Analytics**
-- **Learning Outcomes**: Master typography, color theory, and iconography in branding.
-- **Activities**:
-  - Lecture: Principles of visual identity.
-  - Hands-On: Create logos, color schemes, and fonts in Adobe Express.
-  - Workshop: Develop a mood board for personal and team branding.
-- **Assignments**:
-  - Use MidJourney/DALL-E for inspiration and refine outputs in Adobe Express.
-  - Finalize branding assets for a team project.
+## **Module 2: Visual Brand Identity with AI**
+### **Learning Objectives**
+- Master the use of AI-powered tools for designing brand assets.
+- Develop a cohesive visual identity, including logos, color palettes, and typography.
+
+### **Content Outline**
+1. **AI-Powered Design Tools**
+   - Adobe Express
+   - Canva AI
+   - Brandmark.io
+   - LogoAI
+2. **Creating Brand Assets**
+   - Logo generation and refinement with AI tools
+   - Color palette development using AI-based suggestions
+   - Typography selection and pairing strategies
+   - Creating visual style guides for consistent branding
 
 ---
 
-#### **Module 4: Brand Guidelines and Consistency**
-- **Learning Outcomes**: Learn to create and maintain brand guidelines.
-- **Activities**:
-  - Lecture: Designing consistent brand touchpoints.
-  - Workshop: Use Adobe Express ePub tools for professional-grade guidelines.
-- **Assignments**:
-  - Create a comprehensive brand guideline ePub covering tone, visuals, and messaging.
-  - Use AI tools to ensure tone alignment (e.g., Grammarly).
+## **Module 3: Brand Voice and Content Creation**
+### **Learning Objectives**
+- Develop a consistent and authentic brand voice.
+- Create compelling content strategies using AI writing tools.
+
+### **Content Outline**
+1. **AI Writing Assistants**
+   - ChatGPT/Claude: Shaping brand tone and storytelling
+   - Jasper.ai: Writing marketing copy and taglines
+   - Grammarly: Ensuring tone alignment and grammatical consistency
+   - Copy.ai: Generating variations of copy for testing
+2. **Content Strategy Development**
+   - Establishing brand voice guidelines
+   - Planning content calendars for multi-platform marketing
+   - Leveraging AI tools for social media content
+   - Ensuring cross-platform messaging consistency
 
 ---
 
-#### **Module 5: Competitive Analysis for Branding**
-- **Learning Outcomes**: Conduct competitive analysis and identify branding gaps.
-- **Activities**:
-  - Lecture: Market research techniques.
-  - Hands-On: Design SWOT diagrams using Adobe Express templates.
-- **Assignments**:
-  - Perform competitive analysis for personal/team brands.
-  - Integrate insights into a polished Adobe Express report.
+## **Module 4: Brand Imagery and Visual Storytelling**
+### **Learning Objectives**
+- Create compelling visual narratives using AI-generated imagery.
+- Develop visual content strategies aligned with brand identity.
+
+### **Content Outline**
+1. **AI Image Generation**
+   - MidJourney and DALL-E for unique brand visuals
+   - Adobe Firefly for creative refinement
+   - Stable Diffusion for high-quality image customization
+2. **Visual Content Strategy**
+   - Defining brand photography styles
+   - Designing visuals for social media and campaigns
+   - Creating marketing materials aligned with brand stories
+   - Ensuring visual consistency across platforms
 
 ---
 
-#### **Module 6: Messaging and Copywriting with AI**
-- **Learning Outcomes**: Develop brand-aligned messaging strategies.
-- **Activities**:
-  - Lecture: Crafting brand taglines and mission statements.
-  - Workshop: Use Jasper/Writesonic to create messaging.
-  - Hands-On: Design marketing materials using Adobe Express.
-- **Assignments**:
-  - Produce messaging assets aligned with branding tone.
-  - Experiment with AI tools for audience-specific messaging.
+## **Module 5: Brand Analytics and Optimization**
+### **Learning Objectives**
+- Utilize AI analytics tools to measure brand performance and optimize strategies.
+- Conduct competitive analysis and monitor brand sentiment.
+
+### **Content Outline**
+1. **AI Analytics Tools**
+   - Brand24 for real-time sentiment analysis
+   - Brandwatch for comprehensive trend monitoring
+   - Sprout Social for engagement metrics
+   - Google Analytics 4 for ROI tracking
+2. **Performance Measurement**
+   - Conducting sentiment analysis for brand positioning
+   - Measuring engagement and interaction rates
+   - Identifying branding gaps through competitor analysis
+   - Tracking ROI on branding initiatives
 
 ---
 
-#### **Module 7: Multimedia Branding**
-- **Learning Outcomes**: Enhance branding through multimedia assets.
-- **Activities**:
-  - Workshop: Create multimedia portfolios using Adobe Spark Page.
-  - Hands-On: Design interactive brochures and presentations.
-- **Assignments**:
-  - Publish personal brand portfolios.
-  - Develop multimedia touchpoints for team branding projects.
+## **Module 6: Personal Branding with AI**
+### **Learning Objectives**
+- Craft a compelling personal brand using AI tools.
+- Build and maintain a professional online presence.
+
+### **Content Outline**
+1. **Professional Identity Development**
+   - Optimizing LinkedIn profiles with AI-generated suggestions
+   - Creating personalized portfolios with Adobe Portfolio
+   - Developing personal websites using Webflow or Squarespace AI
+   - Establishing professional networks
+2. **Personal Brand Management**
+   - Designing content strategies for personal branding
+   - Monitoring online presence with analytics tools
+   - Building and sustaining a professional reputation
 
 ---
 
-### **Final Deliverables**
-1. **Personal Brand Portfolio**:
-   - Includes a tagline, visual identity, messaging, and multimedia assets.
-   - Published as an ePub or Spark Page.
-2. **Team Branding Package**:
-   - Comprehensive brand strategy, including visual assets, competitive analysis, and multimedia presentations.
+## **Module 7: Team and Corporate Branding**
+### **Learning Objectives**
+- Collaborate effectively on team branding initiatives.
+- Manage corporate branding challenges using AI tools.
+
+### **Content Outline**
+1. **Collaborative Brand Development**
+   - Team branding tools: Figma, Miro, and Notion AI
+   - Brand management systems and asset sharing platforms
+   - Ensuring version control and consistency
+2. **Enterprise Brand Solutions**
+   - Implementing digital asset management (DAM) systems
+   - Ensuring brand compliance across teams
+   - Strategies for global brand consistency
+
+---
+
+## **Module 8: Final Project and Portfolio Development**
+### **Learning Objectives**
+- Create professional branding deliverables that demonstrate mastery of AI tools and branding principles.
+- Compile a comprehensive portfolio for career advancement.
+
+### **Content Outline**
+1. **Brand Package Creation**
+   - Developing a complete brand guide, including visuals and messaging
+   - Creating a cohesive asset library with logos, colors, and typography
+   - Crafting an implementation strategy for branding rollouts
+   - Planning and executing a brand launch campaign
+2. **Professional Portfolio**
+   - Developing a digital portfolio with tools like Webflow or Adobe Spark Page
+   - Documenting case studies and team projects
+   - Designing client-ready pitch materials
+   - Presenting finalized projects to peers or industry professionals
+
+---
+
+### **Recommended AI Tools by Module**
+1. **Design and Visual Identity:**
+   - Adobe Express, Canva AI, MidJourney, DALL-E, LogoAI
+2. **Content Creation:**
+   - ChatGPT, Claude, Jasper.ai, Grammarly, Copy.ai
+3. **Analytics and Optimization:**
+   - Brand24, Sprout Social, Brandwatch, Google Analytics 4
+4. **Collaboration and Team Branding:**
+   - Figma, Miro, Notion AI, Adobe Creative Cloud
+5. **Portfolio and Branding Platforms:**
+   - Webflow, Wix ADI, Squarespace AI, Adobe Portfolio
 
 ---
 
