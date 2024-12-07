@@ -168,7 +168,6 @@
    - Use analytics tools to assess the success of the implemented story.
    - Provide recommendations for future story improvements.
 
-Would you like more detailed examples, additional exercises, or expanded case studies?
 ---
 
 ### **Course Takeaways**
