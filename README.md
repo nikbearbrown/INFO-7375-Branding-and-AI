@@ -2,7 +2,7 @@
 
 ### **People**
 **Creative**: Nina Harris (Brand Director & Creative Visionary)  
-**AI**: Nik Bear Brown  
+**AI**: Nik Bear Brown  (AI Professor)
 
 ---
 
@@ -92,7 +92,7 @@ This course dives into the intersection of branding and artificial intelligence,
 
 ---
 
-#### **Module 7: Multimedia Branding with Adobe Express**
+#### **Module 7: Multimedia Branding**
 - **Learning Outcomes**: Enhance branding through multimedia assets.
 - **Activities**:
   - Workshop: Create multimedia portfolios using Adobe Spark Page.
