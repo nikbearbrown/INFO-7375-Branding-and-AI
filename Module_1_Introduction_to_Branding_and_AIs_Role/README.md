@@ -1,123 +1,56 @@
 # INFO 7375: Branding and AI
-
-### **People**
-**Creative**: Nina Harris (Brand Director & Creative Visionary)  
-**AI**: Nik Bear Brown  
+# **Table of Contents for INFO 7375: Branding and AI**
 
 ---
 
-### **Course Description**
+## **Module 1: Introduction to Branding and AI’s Role**
+### **Learning Outcomes**
+- Understand foundational branding concepts, including vision, coherence, and identity.
+- Explore the role of AI in enhancing branding processes.
 
-This course dives into the intersection of branding and artificial intelligence, providing students with practical tools and strategies to craft compelling brand identities. From personal branding to team-based branding initiatives, students will gain hands-on experience with cutting-edge AI tools like Adobe Express, ChatGPT, MidJourney, and more. The course culminates in the development of publishable assets such as professional ePubs, portfolios, and marketing deliverables. Students will tackle real-world challenges, ensuring their readiness for the competitive branding landscape.
+### **Content Outline**
+1. **Foundations of Branding**
+   - Definitions and core principles (e.g., vision, coherence, identity)
+   - Elements of successful branding (logos, tone, mission statements)
+   - Importance of consistency and governance in branding
+2. **The Role of AI in Branding**
+   - Overview of AI applications in branding
+   - AI’s influence on creativity, efficiency, and personalization
+   - Introduction to key AI tools for branding (e.g., Adobe Express, ChatGPT, MidJourney)
 
----
+### **Activities**
+1. **Lecture: Branding Basics and AI Tools**
+   - Components of a strong brand
+   - Overview of AI tools:
+     - Adobe Express (graphic design)
+     - ChatGPT/Claude (brand storytelling and analysis)
+     - MidJourney (generative imagery)
+   - Case study: Airbnb’s branding consistency
+2. **Hands-On: Create a Personal Branding Graphic**
+   - Use Adobe Express to design a logo or tagline banner.
+   - Share and discuss designs in groups.
+3. **Group Discussion: Analyzing Iconic Brands**
+   - Analyze how brands like Nike, Apple, and Airbnb maintain consistency across platforms.
+   - Discuss the role of AI in supporting these brands’ strategies.
 
-### **Learning Objectives**
-- Understand core branding principles, including storytelling, visual identity, and competitive analysis.
-- Leverage AI tools to optimize branding tasks and create impactful deliverables.
-- Develop and refine a personal brand portfolio using professional tools like Adobe Express.
-- Collaborate on team projects to reimagine and develop branding strategies for fictional and real-world scenarios.
-
----
-
-### **Course Schedule**
-
-#### **Module 1: Introduction to Branding and AI’s Role**
-- **Learning Outcomes**: Grasp foundational branding concepts (e.g., vision, coherence) and AI’s role in branding.
-- **Activities**:
-  - Lecture: Overview of branding components and AI tools like Adobe Express.
-  - Hands-On: Create a personal branding graphic (e.g., logo or tagline banner).
-  - Group Discussion: Analyze iconic brands (e.g., Airbnb) for branding consistency.
-- **Assignments**:
-  - Analyze a brand’s architecture and governance.
-  - Use AI (ChatGPT/Claude) for brand analysis and Adobe Express to create a visual asset.
-
----
-
-#### **Module 2: The Power of Brand Storytelling**
-- **Learning Outcomes**: Understand storytelling's emotional impact on branding.
-- **Activities**:
-  - Lecture: Storytelling science (e.g., Paul J. Zak's framework).
-  - Workshop: Break down brand stories using narrative arcs.
-  - Hands-On: Design a narrative for a personal brand using Adobe Express.
-- **Assignments**:
-  - Draft a “Hero’s Journey” narrative for a personal brand.
-  - Use AI to analyze and enhance brand stories.
-
----
-
-#### **Module 3: Visual Identity and AI Image Analytics**
-- **Learning Outcomes**: Master typography, color theory, and iconography in branding.
-- **Activities**:
-  - Lecture: Principles of visual identity.
-  - Hands-On: Create logos, color schemes, and fonts in Adobe Express.
-  - Workshop: Develop a mood board for personal and team branding.
-- **Assignments**:
-  - Use MidJourney/DALL-E for inspiration and refine outputs in Adobe Express.
-  - Finalize branding assets for a team project.
+### **Assignments**
+1. **Brand Architecture Analysis**
+   - Select a brand and analyze its architecture, identity, and governance structure.
+   - Use ChatGPT or Claude to assist with your analysis.
+2. **Visual Branding Asset Creation**
+   - Use Adobe Express to create a visual asset (e.g., a logo or campaign banner).
+   - Submit the asset with a written reflection on how AI enhanced the process.
 
 ---
 
-#### **Module 4: Brand Guidelines and Consistency**
-- **Learning Outcomes**: Learn to create and maintain brand guidelines.
-- **Activities**:
-  - Lecture: Designing consistent brand touchpoints.
-  - Workshop: Use Adobe Express ePub tools for professional-grade guidelines.
-- **Assignments**:
-  - Create a comprehensive brand guideline ePub covering tone, visuals, and messaging.
-  - Use AI tools to ensure tone alignment (e.g., Grammarly).
+### **Suggested AI Tools for Module 1**
+- **Adobe Express**: Design custom logos, banners, and social media graphics.
+- **ChatGPT/Claude**: Analyze brand strategy, write mission statements, and generate creative branding ideas.
+- **MidJourney**: Create generative art and visual assets for brand identity.
+- **Canva**: Simplify graphic design for non-designers.
+- **Looka**: AI-driven logo and brand kit creation.
+- **Lumen5**: Generate branded video content from text-based assets. 
 
----
-
-#### **Module 5: Competitive Analysis for Branding**
-- **Learning Outcomes**: Conduct competitive analysis and identify branding gaps.
-- **Activities**:
-  - Lecture: Market research techniques.
-  - Hands-On: Design SWOT diagrams using Adobe Express templates.
-- **Assignments**:
-  - Perform competitive analysis for personal/team brands.
-  - Integrate insights into a polished Adobe Express report.
-
----
-
-#### **Module 6: Messaging and Copywriting with AI**
-- **Learning Outcomes**: Develop brand-aligned messaging strategies.
-- **Activities**:
-  - Lecture: Crafting brand taglines and mission statements.
-  - Workshop: Use Jasper/Writesonic to create messaging.
-  - Hands-On: Design marketing materials using Adobe Express.
-- **Assignments**:
-  - Produce messaging assets aligned with branding tone.
-  - Experiment with AI tools for audience-specific messaging.
-
----
-
-#### **Module 7: Multimedia Branding with Adobe Express**
-- **Learning Outcomes**: Enhance branding through multimedia assets.
-- **Activities**:
-  - Workshop: Create multimedia portfolios using Adobe Spark Page.
-  - Hands-On: Design interactive brochures and presentations.
-- **Assignments**:
-  - Publish personal brand portfolios.
-  - Develop multimedia touchpoints for team branding projects.
-
----
-
-### **Final Deliverables**
-1. **Personal Brand Portfolio**:
-   - Includes a tagline, visual identity, messaging, and multimedia assets.
-   - Published as an ePub or Spark Page.
-2. **Team Branding Package**:
-   - Comprehensive brand strategy, including visual assets, competitive analysis, and multimedia presentations.
-
----
-
-### **Instructor Credentials**
-**Nina Harris**  
-With over 25 years of experience in branding, Nina has worked with global brands like Sony, Charles Schwab, and Nike. As a former Creative/Brand Director, she led diverse teams, managed multimillion-dollar branding campaigns, and created over 10,000 proprietary visuals. Her expertise lies in storytelling, brand identity systems, and the seamless integration of branding elements across digital platforms. Nina’s passion for brand building is matched by her dedication to mentoring the next generation of creative leaders.  
-
-**Nik Bear Brown**  
-AI Professor Nik Bear Brown will support the course with cutting-edge insights on leveraging AI tools in branding. Nik’s expertise ensures students remain on the forefront of technological advancements in branding.
 
 ---
 
