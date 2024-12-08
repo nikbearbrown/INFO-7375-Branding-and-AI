@@ -1,7 +1,7 @@
 # INFO 7375: Branding and AI
 
 ### **People**
-**Creative**: Nina Harris (Brand Director & Creative Visionary)  
+**Creative**: Nina Harris (Brand Director & Creative Director)  
 **AI**: Nik Bear Brown  (AI Professor)
 
 ---
