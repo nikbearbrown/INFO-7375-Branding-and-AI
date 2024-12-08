@@ -1,127 +1,207 @@
-# INFO 7375: Branding and AI
-
-### **People**
-**Creative**: Nina Harris (Brand Director & Creative Visionary)  
-**AI**: Nik Bear Brown  
+### **INFO 7375: Branding and AI - Module 7: Multimedia Branding with Adobe Express**
 
 ---
 
-### **Course Description**
+## **1. Adobe Express Fundamentals**
 
-This course dives into the intersection of branding and artificial intelligence, providing students with practical tools and strategies to craft compelling brand identities. From personal branding to team-based branding initiatives, students will gain hands-on experience with cutting-edge AI tools like Adobe Express, ChatGPT, MidJourney, and more. The course culminates in the development of publishable assets such as professional ePubs, portfolios, and marketing deliverables. Students will tackle real-world challenges, ensuring their readiness for the competitive branding landscape.
+### **1.1 Platform Overview**
+- **Interface Navigation**:
+  - Understanding the dashboard and layout tools.
+- **Core Features**:
+  - Templates for brochures, presentations, and portfolios.
+  - Image, text, and video integration.
+- **AI Capabilities**:
+  - Automated design suggestions.
+  - Smart resizing and format adaptations.
+- **Integration Options**:
+  - Adobe Creative Cloud suite.
+  - Collaboration with Canva AI and Figma.
 
----
-
-### **Learning Objectives**
-- Understand core branding principles, including storytelling, visual identity, and competitive analysis.
-- Leverage AI tools to optimize branding tasks and create impactful deliverables.
-- Develop and refine a personal brand portfolio using professional tools like Adobe Express.
-- Collaborate on team projects to reimagine and develop branding strategies for fictional and real-world scenarios.
-
----
-
-### **Course Schedule**
-
-#### **Module 1: Introduction to Branding and AI’s Role**
-- **Learning Outcomes**: Grasp foundational branding concepts (e.g., vision, coherence) and AI’s role in branding.
-- **Activities**:
-  - Lecture: Overview of branding components and AI tools like Adobe Express.
-  - Hands-On: Create a personal branding graphic (e.g., logo or tagline banner).
-  - Group Discussion: Analyze iconic brands (e.g., Airbnb) for branding consistency.
-- **Assignments**:
-  - Analyze a brand’s architecture and governance.
-  - Use AI (ChatGPT/Claude) for brand analysis and Adobe Express to create a visual asset.
-
----
-
-#### **Module 2: The Power of Brand Storytelling**
-- **Learning Outcomes**: Understand storytelling's emotional impact on branding.
-- **Activities**:
-  - Lecture: Storytelling science (e.g., Paul J. Zak's framework).
-  - Workshop: Break down brand stories using narrative arcs.
-  - Hands-On: Design a narrative for a personal brand using Adobe Express.
-- **Assignments**:
-  - Draft a “Hero’s Journey” narrative for a personal brand.
-  - Use AI to analyze and enhance brand stories.
+### **1.2 Project Setup and Management**
+- **Workspace Organization**:
+  - Structuring projects for efficiency.
+- **Template Systems**:
+  - Utilizing pre-designed templates.
+  - Customizing layouts for branding.
+- **Asset Libraries**:
+  - Centralized storage for branding assets.
+- **Collaboration Tools**:
+  - Real-time editing with teams.
 
 ---
 
-#### **Module 3: Visual Identity and AI Image Analytics**
-- **Learning Outcomes**: Master typography, color theory, and iconography in branding.
-- **Activities**:
-  - Lecture: Principles of visual identity.
-  - Hands-On: Create logos, color schemes, and fonts in Adobe Express.
-  - Workshop: Develop a mood board for personal and team branding.
-- **Assignments**:
-  - Use MidJourney/DALL-E for inspiration and refine outputs in Adobe Express.
-  - Finalize branding assets for a team project.
+## **2. Portfolio Development**
+
+### **2.1 Portfolio Structure**
+- **Information Architecture**:
+  - Logical arrangement of content.
+- **Content Organization**:
+  - Grouping projects, skills, and achievements.
+- **Navigation Design**:
+  - Easy-to-use menus and hyperlinks.
+- **Responsive Layouts**:
+  - Optimized for desktop, tablet, and mobile devices.
+
+### **2.2 Interactive Elements**
+- **Animation Integration**:
+  - Adding dynamic visual effects.
+- **Transition Effects**:
+  - Smooth movement between portfolio sections.
+- **Scroll-Based Features**:
+  - Interactive storytelling.
+- **User Engagement**:
+  - Buttons, forms, and feedback prompts.
 
 ---
 
-#### **Module 4: Brand Guidelines and Consistency**
-- **Learning Outcomes**: Learn to create and maintain brand guidelines.
-- **Activities**:
-  - Lecture: Designing consistent brand touchpoints.
-  - Workshop: Use Adobe Express ePub tools for professional-grade guidelines.
-- **Assignments**:
-  - Create a comprehensive brand guideline ePub covering tone, visuals, and messaging.
-  - Use AI tools to ensure tone alignment (e.g., Grammarly).
+## **3. Multimedia Asset Creation**
+
+### **3.1 Visual Elements**
+- **Image Optimization**:
+  - Resizing and compressing images for performance.
+- **Video Integration**:
+  - Embedding video content seamlessly.
+- **Graphics Creation**:
+  - Designing custom visuals.
+- **Icon Development**:
+  - Incorporating branded icons.
+
+### **3.2 Interactive Documents**
+- **Digital Brochures**:
+  - Combining text, visuals, and interactive components.
+- **Presentations**:
+  - Creating slides with multimedia elements.
+- **Reports**:
+  - Designing visually appealing documents.
+- **Case Studies**:
+  - Structuring data-rich narratives.
 
 ---
 
-#### **Module 5: Competitive Analysis for Branding**
-- **Learning Outcomes**: Conduct competitive analysis and identify branding gaps.
-- **Activities**:
-  - Lecture: Market research techniques.
-  - Hands-On: Design SWOT diagrams using Adobe Express templates.
-- **Assignments**:
-  - Perform competitive analysis for personal/team brands.
-  - Integrate insights into a polished Adobe Express report.
+## **4. Brand Experience Design**
+
+### **4.1 User Journey Mapping**
+- **Navigation Flow**:
+  - Structuring logical content paths.
+- **Content Hierarchy**:
+  - Prioritizing critical information.
+- **Interaction Points**:
+  - Highlighting user engagement opportunities.
+- **Experience Optimization**:
+  - Ensuring intuitive navigation and functionality.
+
+### **4.2 Cross-Platform Integration**
+- **Mobile Optimization**:
+  - Ensuring assets look great on phones.
+- **Social Media Integration**:
+  - Formatting for Instagram, LinkedIn, and more.
+- **Web Compatibility**:
+  - Embedding assets into websites.
+- **Print Adaptation**:
+  - Preparing designs for physical formats.
 
 ---
 
-#### **Module 6: Messaging and Copywriting with AI**
-- **Learning Outcomes**: Develop brand-aligned messaging strategies.
-- **Activities**:
-  - Lecture: Crafting brand taglines and mission statements.
-  - Workshop: Use Jasper/Writesonic to create messaging.
-  - Hands-On: Design marketing materials using Adobe Express.
-- **Assignments**:
-  - Produce messaging assets aligned with branding tone.
-  - Experiment with AI tools for audience-specific messaging.
+## **5. Publishing and Distribution**
+
+### **5.1 Format Optimization**
+- **Digital Publishing**:
+  - Exporting for web and app usage.
+- **Social Sharing**:
+  - Integrating with scheduling tools like Buffer.
+- **Print Preparation**:
+  - Ensuring DPI and bleed settings.
+- **Version Control**:
+  - Maintaining iterations of projects.
+
+### **5.2 Performance Tracking**
+- **Analytics Integration**:
+  - Embedding tracking tools.
+- **Engagement Metrics**:
+  - Measuring clicks, views, and shares.
+- **User Feedback**:
+  - Gathering qualitative and quantitative responses.
+- **Iteration Planning**:
+  - Continuous improvement based on analytics.
 
 ---
 
-#### **Module 7: Multimedia Branding with Adobe Express**
-- **Learning Outcomes**: Enhance branding through multimedia assets.
-- **Activities**:
-  - Workshop: Create multimedia portfolios using Adobe Spark Page.
-  - Hands-On: Design interactive brochures and presentations.
-- **Assignments**:
-  - Publish personal brand portfolios.
-  - Develop multimedia touchpoints for team branding projects.
+## **Recommended AI Tools**
+
+### **Design and Layout**
+- **Adobe Express**: Core tool for multimedia branding.
+- **Canva AI**: Intuitive templates and multimedia tools.
+- **Figma**: Collaborative design for teams.
+- **Crello**: Social media and marketing design.
+- **VistaCreate**: Quick design solutions for branding.
+
+### **Image Enhancement**
+- **Adobe Firefly**: Advanced image manipulation.
+- **MidJourney**: AI-driven creative visual generation.
+- **DALL-E**: Generative visuals for branding.
+- **Stable Diffusion**: Customized image creation.
+- **Photoleap**: Enhancing and editing photos.
+
+### **Video Creation**
+- **Adobe Express Video**: Simplified video editing.
+- **InVideo**: AI-powered video templates.
+- **Synthesia**: AI-generated video narration.
+- **Descript**: Video and audio editing.
+- **Pictory**: Text-to-video creation.
+
+### **Interactive Elements**
+- **Webflow**: Interactive website and portfolio design.
+- **Framer**: Advanced animation and interactivity.
+- **Readymag**: Web-based presentations.
+- **Storydoc**: Interactive storytelling.
+- **Genially**: Multimedia-rich presentations.
+
+### **Analytics Tools**
+- **Google Analytics**: User tracking and engagement data.
+- **Hotjar**: Heatmaps and interaction analysis.
+- **Microsoft Clarity**: Website engagement tracking.
+- **Adobe Analytics**: Advanced insights into user behavior.
+- **Mixpanel**: Tracking user journeys.
 
 ---
 
-### **Final Deliverables**
-1. **Personal Brand Portfolio**:
-   - Includes a tagline, visual identity, messaging, and multimedia assets.
-   - Published as an ePub or Spark Page.
-2. **Team Branding Package**:
-   - Comprehensive brand strategy, including visual assets, competitive analysis, and multimedia presentations.
+## **Practical Exercises**
+
+### **1. Portfolio Development Project**
+**Objective**: Create a multimedia portfolio using Adobe Express.
+- **Steps**:
+  1. **Structure Development**:
+     - Homepage design.
+     - Showcase for projects and achievements.
+  2. **Content Integration**:
+     - Add image galleries and video presentations.
+  3. **Navigation Design**:
+     - Design an intuitive menu and mobile-responsive navigation.
 
 ---
 
-### **Instructor Credentials**
-**Nina Harris**  
-With over 25 years of experience in branding, Nina has worked with global brands like Sony, Charles Schwab, and Nike. As a former Creative/Brand Director, she led diverse teams, managed multimillion-dollar branding campaigns, and created over 10,000 proprietary visuals. Her expertise lies in storytelling, brand identity systems, and the seamless integration of branding elements across digital platforms. Nina’s passion for brand building is matched by her dedication to mentoring the next generation of creative leaders.  
-
-**Nik Bear Brown**  
-AI Professor Nik Bear Brown will support the course with cutting-edge insights on leveraging AI tools in branding. Nik’s expertise ensures students remain on the forefront of technological advancements in branding.
+### **2. Interactive Brochure Creation**
+**Objective**: Design an interactive brochure for marketing.
+- **Steps**:
+  1. Use Adobe Express templates.
+  2. Include engaging visuals and CTAs.
+  3. Add interactive navigation elements.
 
 ---
 
-### **Course Takeaways**
-This course equips students with the strategic insight and technical skills needed to create meaningful, impactful brands. By blending AI tools with traditional branding principles, students leave with a portfolio that sets them apart in job searches and professional endeavors.
+### **3. Multimedia Presentation**
+**Objective**: Develop a professional multimedia presentation.
+- **Elements**:
+  - Slide layouts with animations and transitions.
+  - Embedded videos and audio for interactivity.
+  - Navigation tools for seamless flow.
 
-#BrandingAndAI #PersonalBranding #AIInBranding #AdobeExpress #CareerAdvancement
+---
+
+### **4. Team Branding Project**
+**Objective**: Collaboratively create a multimedia branding package.
+- **Deliverables**:
+  - Interactive portfolio.
+  - Marketing brochure.
+  - Team presentation with multimedia elements.
+
