@@ -2,7 +2,7 @@
 
 ### **People**
 **Creative**: Nina Harris (Brand Director & Creative Director)  
-**AI**: Nik Bear Brown  (AI Professor)
+**AI**: Nik Bear Brown  (AI Engineering Professor)
 
 ---
 
