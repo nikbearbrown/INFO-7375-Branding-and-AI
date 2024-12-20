@@ -56,8 +56,7 @@ Adobe Express
 - Export options include PDF or image formats, but some advanced features require the premium plan.
 
 
-![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/ComfiUI_1.png)
-
+![Image Description](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module%201/Adobe_6.png)
 
 Canva
 - Extensive variety of free resume templates tailored to modern design trends.
@@ -65,7 +64,7 @@ Canva
 - Allows easy export to PDF format for job applications, ensuring compatibility.
 
 
-![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/ComfiUI_1.png)
+![Image Description](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module%201/Adobe_7.png)
 
 4. Social Media Design Features
 
