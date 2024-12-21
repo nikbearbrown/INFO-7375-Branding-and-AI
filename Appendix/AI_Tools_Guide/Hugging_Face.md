@@ -4,7 +4,7 @@
 
 ## Table of Contents
 - [Introduction to Hugging Face](#introduction-to-hugging-face)
-- [Hugging Face For Branding & Marketing](#hugging-face-for-branding-&-marketing)
+- [Hugging Face for Branding & Marketing](#hugging-face-for-branding-&-marketing)
 - [Reasons to Use Hugging Face](reasons-to-use-hugging-face) 
 - [Core Components of Hugging Face](#core-components-of-hugging-face)
 - [Usage and Pricing](#usage-and-pricing)
