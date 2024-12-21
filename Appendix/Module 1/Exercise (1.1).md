@@ -36,7 +36,7 @@ Blogs and forums: In-depth discussions about how companies are leveraging AI.
 I Started with Basic Monitoring Mention:
 
 
-![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Exercise1.1.png)
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Exercise1.1(3).png)
 
 
 
@@ -47,7 +47,7 @@ For Coca-Cola, I monitored articles discussing how the brand used AI for flavor 
 For Tesla, I followed blogs and news on advancements in Autopilot and energy storage technologies.
 
 
-![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Exercise1.1(3).png)
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Exercise1.1(2).png)
 
 
 
@@ -90,6 +90,9 @@ Key Transformations:
 - Emphasis on digital fitness tools like the Nike+ app.
 
 
+![Image Description](https://github.com/nikbearbrown/ENGR-0201-Organizing-Academic-Success-AI-for-Personalized-Learning/blob/main/ENGR_0201/Exercise1.1(1).png)
+
+
 AI Integration:
 
 
@@ -98,6 +101,10 @@ AI Integration:
 
 
 Got these Links from mention : [Nike AI Integration Blog](https://aimresearch.co/uncategorized/how-nike-is-using-ai-to-transform-product-design-customer-experience-and-operational-efficiency)
+
+
+After Analysing all the links, blogs and news articles Mention Gives taking these information I Structured it into the following catogories for all three brands.
+
 
 
 (2012): Nike+ Training App Launch
