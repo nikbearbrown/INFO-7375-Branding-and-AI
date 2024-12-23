@@ -122,10 +122,11 @@ A storyboard is a visual representation of a story or campaign, broken down into
 
      ![adobe](https://github.com/user-attachments/assets/4244b2e0-52d6-456c-9681-37883843d0b0)
 
+   - Add dialogue, action descriptions, and branding elements to each frame.
+
 
      ![adobe1](https://github.com/user-attachments/assets/44e47d2f-a133-4e5c-8b80-0002bfc9f85a)
 
-   - Add dialogue, action descriptions, and branding elements to each frame.
 
 4. **Finalize and Share**:
    - Review the completed storyboard with the team.
