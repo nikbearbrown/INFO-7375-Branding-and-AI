@@ -135,20 +135,20 @@ By combining speed, creativity, and personalization, these AI tools empower busi
 
     ![logo3](https://github.com/user-attachments/assets/481aea1e-7cca-4ddf-a994-4cdc48307d05)
 
-2. **Choose Logo Concepts**:
+4. **Choose Logo Concepts**:
    - Browse through auto-generated logos and select your favorites.
 
     ![logo4](https://github.com/user-attachments/assets/11fda9d3-df55-4432-a608-0c805f3e70b3)
 
-3. **Refine the Logo**:
+5. **Refine the Logo**:
    - Adjust typography, colors, and layout.
 
      ![logo6](https://github.com/user-attachments/assets/0b126b21-2690-4057-ab3f-8fda54917d15)
 
-4. **Download Final Design**:
+6. **Download Final Design**:
    - Export the logo in multiple formats (SVG, PNG, PDF).
 
-Use tools like Adobe Express or Canva to adjust proportions, typography, and alignment of the selected logos
+7. Use tools like Adobe Express or Canva to adjust proportions, typography, and alignment of the selected logos
 
 ### How This Helps with Branding
 - LogoAI ensures logos are professional and tailored to branding needs.
