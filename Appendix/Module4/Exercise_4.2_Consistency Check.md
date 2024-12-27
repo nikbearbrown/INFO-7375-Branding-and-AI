@@ -128,7 +128,7 @@ Automate brand tone and style checks to ensure consistency across all content, s
 
 
 
-![Image Description](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module4/Images/Exercise4.2(5).png)
+![Image Description](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module4/Images/Exercise4.2(7).png)
 
 
 ![Image Description](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module4/Images/Exercise4.2(6).png)
@@ -154,7 +154,7 @@ Automate brand tone and style checks to ensure consistency across all content, s
 
 
 
-![Image Description](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module4/Images/Exercise4.2(7).png)
+![Image Description](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module4/Images/Exercise4.2(5).png)
 
 
 ---
