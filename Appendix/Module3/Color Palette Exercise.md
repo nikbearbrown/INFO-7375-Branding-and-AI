@@ -23,7 +23,7 @@ Color is one of the most critical aspects of a brand's identity. It helps convey
 
 1. **Logo 1: Dynamic Movement**
 
-   ![logo7](https://github.com/user-attachments/assets/cd5ea059-d6d1-42bc-a3a8-c17cefd102d6)
+   ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/logo7.jpg)
 
    - **Symbolism**:
      - The leaping figure embodies **energy**, **movement**, and **vitality**, which are core attributes of fitness and active lifestyles.
@@ -39,7 +39,7 @@ Color is one of the most critical aspects of a brand's identity. It helps convey
 
 2. **Logo 2: Serenity and Wellness**
 
-   ![logo8](https://github.com/user-attachments/assets/67eaeb85-d8a5-4da7-8044-ad2d3a0fd1e6)
+   ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/logo8.jpg)
 
    - **Symbolism**:
      - The meditative pose highlights **calmness**, **balance**, and **well-being**, aligning with recovery-focused services.
@@ -55,7 +55,7 @@ Color is one of the most critical aspects of a brand's identity. It helps convey
 
 3. **Logo 3: Holistic Strength**
 
-   ![logo9](https://github.com/user-attachments/assets/1bc6f941-5c6c-4971-bed0-554b5ae2436d)
+   ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/logo9.jpg)
 
    - **Symbolism**:
      - The tree-like structure combines a central figure (symbolizing human strength) with branches and leaves, representing **growth**, **resilience**, and **connection**.
@@ -139,33 +139,33 @@ The chosen colors for Thrivewell Fitness are:
 1. **Entering the Colors**:
    - Navigate to [Adobe Color](https://color.adobe.com).
 
-![adobe1](https://github.com/user-attachments/assets/4b916a41-b99b-45d5-bf63-3eba806874fd)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/adobe1.jpg)
 
    - Select the "Create Color Themes" option .
 
 2. **Exploring Harmony Rules**:
    - Adjust the colors using harmony rules like Analogous or Triadic to see variations.
 
-![adobe2](https://github.com/user-attachments/assets/22f01b80-5068-49ce-b35b-ec91f31c1b01)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/adobe2.jpg)
 
   - Manually enter the HEX codes for the chosen colors or play around with the palette and choose appropriate colours
 
-![adobe4](https://github.com/user-attachments/assets/fc01bb46-a6ba-4d8a-84af-94a384b0806d)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/adobe4.jpg)
 
 2. **Saving the Palette**:
    - Save the finalized palette to your **Adobe Library**.
   
-![adobe5](https://github.com/user-attachments/assets/ad98acef-de1a-428f-9b74-a8c21cf5941c)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/adobe5.jpg)
 
    - Name the palette "Thrivewell Fitness Color Palette" or any other name
 
-![adobe6](https://github.com/user-attachments/assets/b7d807b3-a071-4869-b740-dcd61adf0a8e)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/adobe6.jpg)
 
 3. **Downloading the Palette**:
    - Export the palette in formats suitable for design tools (e.g., ASE or PNG).
    - Use the exported file for consistent branding across digital and print materials.
 
-![adobe7](https://github.com/user-attachments/assets/ea38803e-6efa-4ba6-baf4-8a5616854e68)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/adobe7.jpg)
 
 ---
 
