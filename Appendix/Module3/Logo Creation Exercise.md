@@ -125,25 +125,25 @@ By combining speed, creativity, and personalization, these AI tools empower busi
 1. **Start with Your Brand Details**:
    - Enter your business name and keywords (e.g., “ThriveWell Fitness,” “wellness,” “strength,” “compassion”).
 
-     ![Logo1](https://github.com/user-attachments/assets/afa9e656-6420-41d2-8cd1-6aa9c09161a8)
+     ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/Logo1.jpg)
      
 2. **On the top right click on the AI tab and choose AI Logo Generator**
 
-     ![logo2](https://github.com/user-attachments/assets/c7bb00e9-45d2-43e4-b9fa-4abf2e7bfa23)
+     ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/logo2.png)
 
 3. **Enter your prompt to generate logo**
 
-    ![logo3](https://github.com/user-attachments/assets/481aea1e-7cca-4ddf-a994-4cdc48307d05)
+    ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/logo3.jpg)
 
 4. **Choose Logo Concepts**:
    - Browse through auto-generated logos and select your favorites.
 
-    ![logo4](https://github.com/user-attachments/assets/11fda9d3-df55-4432-a608-0c805f3e70b3)
+    ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/logo4.jpg)
 
 5. **Refine the Logo**:
    - Adjust typography, colors, and layout.
 
-     ![logo6](https://github.com/user-attachments/assets/0b126b21-2690-4057-ab3f-8fda54917d15)
+     ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/logo6.jpg)
 
 6. **Download Final Design**:
    - Export the logo in multiple formats (SVG, PNG, PDF).
@@ -158,11 +158,11 @@ By combining speed, creativity, and personalization, these AI tools empower busi
 
 ### Selected Logos
 
-![logo7](https://github.com/user-attachments/assets/d20a5bef-ec09-4c1f-a182-0d5ba12be142)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/logo7.jpg)
 
-![logo8](https://github.com/user-attachments/assets/833500d8-b6c5-4da6-b549-e713c34fb7f5)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/logo8.jpg)
 
-![logo9](https://github.com/user-attachments/assets/4d7a02ca-9c48-4c52-9921-7d82e30430ea)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/logo9.jpg)
 
 ---
 
@@ -182,7 +182,7 @@ LogoAI offers flexible pricing plans depending on your design needs:
 ### Premium Logo Pack + Website ($34)
 - Includes everything plus website creation.
 
-![image](https://github.com/user-attachments/assets/1aa1f08c-cba0-44bb-aafe-71e136dd1384)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module3/Images/398448618-1aa1f08c-cba0-44bb-aafe-71e136dd1384.png)
 
 ---
 
