@@ -70,9 +70,9 @@ ThriveWell Fitness’s mission is centered around empowering individuals affecte
 
 ## Initial Story Framework requirements given to GPT
 
-![image](https://github.com/user-attachments/assets/0aec1135-7239-4af6-b500-5050c4a8a495)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module2/Images/397834664-0aec1135-7239-4af6-b500-5050c4a8a495.png)
 
-![image](https://github.com/user-attachments/assets/ed291bd9-887d-4f3b-9698-8ffc7729bcea)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module2/Images/397834861-ed291bd9-887d-4f3b-9698-8ffc7729bcea.png)
 
 # The Story
 
@@ -84,7 +84,7 @@ Months passed, and Sarah noticed changes beyond physical strength. Her confidenc
 # Story Framework from GPT given to Claude to generate a Journey breakdown
 
 
-![image](https://github.com/user-attachments/assets/2786d045-68ee-4ad6-8796-5b04feed4d69)
+![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module2/Images/397835567-2786d045-68ee-4ad6-8796-5b04feed4d69.png)
 
 
 # Sarah's Journey Breakdown
