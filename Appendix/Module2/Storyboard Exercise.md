@@ -112,7 +112,7 @@ A storyboard is a visual representation of a story or campaign, broken down into
 2. **Generate Visuals with AI**:
    - Use DALL-E to generate visuals for each scene by providing detailed prompts (e.g., "A vibrant gym setting with cheering members").
 
-     ![dall-e](https://github.com/user-attachments/assets/d27d5094-487b-4b38-8234-7cd9a31afbdb)
+     ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module2/Images/dall-e.jpg)
 
 
    - Utilize Stable Diffusion to ensure Sarah looks consistent across all frames by crafting specific character prompts.
@@ -120,21 +120,21 @@ A storyboard is a visual representation of a story or campaign, broken down into
 3. **Assemble the Storyboard**:
    - Upload AI-generated images into Adobe Express.
 
-     ![adobe](https://github.com/user-attachments/assets/4244b2e0-52d6-456c-9681-37883843d0b0)
+     ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module2/Images/adobe.jpg)
 
    - Add dialogue, action descriptions, and branding elements to each frame.
 
 
-     ![adobe1](https://github.com/user-attachments/assets/44e47d2f-a133-4e5c-8b80-0002bfc9f85a)
+     ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module2/Images/adobe1.jpg)
 
 
 4. **Finalize and Share**:
    - Review the completed storyboard with the team.
    - Use it as a guide for video production, social media campaigns, or presentations.
 
-     ![Storyboard-1](https://github.com/user-attachments/assets/4a81b027-2402-4f69-a55e-4b6d6b586571)
+     ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module2/Images/Storyboard-1.jpeg)
 
-     ![Storyboard-2](https://github.com/user-attachments/assets/810df811-1407-42d3-8f7d-ca6b62529e53)
+     ![image](https://github.com/nikbearbrown/INFO-7375-Branding-and-AI/blob/main/Appendix/Module2/Images/Storyboard-2.jpeg)
 
 
 ---
