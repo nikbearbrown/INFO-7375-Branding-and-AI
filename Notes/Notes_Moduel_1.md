@@ -1,3 +1,3 @@
-# Midjourney Prompt Patterns
+# Notes Module One
 
 
