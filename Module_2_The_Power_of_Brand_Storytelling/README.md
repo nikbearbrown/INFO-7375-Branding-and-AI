@@ -1,176 +1,146 @@
-# INFO 7375: Branding and AI
-### **INFO 7375: Branding and AI - Module 2: The Power of Brand Storytelling**
+# Module 2: Building Your Visual Brand Identity and Portfolio
+
+## Module Overview
+This module focuses on applying personal branding elements to create a cohesive visual brand identity and begin building a professional portfolio website. Students will explore design principles, utilize AI tools, and conduct competitive analysis to establish a compelling personal brand presence.
+
+### Learning Objectives:
+- Master AI tools for designing brand visuals.
+- Develop key visual identity elements, including logos, color palettes, and typography.
+- Conduct a competitive analysis of student portfolios using Pinterest for inspiration.
+- Use Figma to wireframe and design a portfolio website that integrates branding elements.
+- Begin developing the portfolio website using platforms like Vercel for advanced functionality.
+- Understand the role of accessibility in design and ensure inclusivity in branding.
 
 ---
 
-## **1. Fundamentals of Brand Storytelling**
+## Content Outline and Assignments
 
-### **1.1 The Science of Storytelling**
-- **Neuroscience of Narrative:**
-  - Explore how stories activate emotional and memory centers in the brain.
-  - Understand the role of oxytocin in building trust and empathy (Paul J. Zak’s framework).
-- **Emotional Connections:**
-  - Craft stories that resonate emotionally with audiences.
-  - Establish relationships through shared values and experiences.
-- **Memory and Retention:**
-  - Leverage storytelling techniques to make brand messages more memorable.
+### 1. Develop Your Visual Brand Identity
+#### **Key Deliverables (Total: 100 points)**
 
-### **1.2 Story Elements in Branding**
-- **Character Development:**
-  - Define the role of the customer as the central character.
-  - Create relatable brand personas as supporting characters.
-- **Conflict and Resolution:**
-  - Address customer pain points through narrative arcs.
-  - Highlight how the brand resolves challenges.
-- **Story Arcs:**
-  - Map brand stories to classic arcs like “overcoming the monster” or “rags to riches.”
-- **Brand Voice and Tone:**
-  - Align storytelling with consistent voice and tone across platforms.
+1. **Logo Design (20 points):**
+   - Create a logo that reflects your personal brand using Canva AI, Adobe Express, or Figma.
+   - **Deliverable:** Submit a high-resolution logo.
 
----
+2. **Color Palette Creation (10 points):**
+   - Use Coolors to generate a 3-5 color palette aligned with your brand. Ensure accessibility by testing with WebAIM Contrast Checker.
+   - **Deliverable:** Submit your color palette (hex codes) and a screenshot of the contrast test.
 
-## **2. Core Brand Story Frameworks**
+3. **Typography Selection (10 points):**
+   - Choose two complementary fonts for your brand using Canva, Adobe Fonts, or Google Fonts.
+   - **Deliverable:** Submit font names and a short explanation of why they suit your brand.
 
-### **2.1 The Hero’s Journey in Branding**
-- **Call to Adventure:**
-  - Position the customer as a hero embarking on a transformative journey.
-- **Brand as Guide:**
-  - Frame the brand as the mentor offering tools, support, and wisdom.
-- **Transformation Narrative:**
-  - Showcase the customer’s growth and success through brand interaction.
+4. **Tagline Creation (10 points):**
+   - Develop a concise and compelling tagline using AI tools like ChatGPT for brainstorming.
+   - **Deliverable:** Submit your final tagline.
 
-### **2.2 Modern Brand Story Structures**
-- **Mini-Narratives:**
-  - Create concise stories for social media and quick consumption.
-- **Visual Storytelling:**
-  - Use infographics, reels, and animations to tell impactful stories.
-- **Transmedia Narratives:**
-  - Integrate storytelling across platforms (e.g., website, social media, and email).
+5. **Brand Voice Statement (10 points):**
+   - Write a 2-3 sentence description of your brand's tone and communication style.
+   - **Deliverable:** Submit your brand voice statement.
+
+6. **Imagery Style Definition (10 points):**
+   - Identify a style for your brand imagery (e.g., minimalistic, vibrant, professional) and submit 2-3 sample images from Unsplash or Pexels.
+   - **Deliverable:** Submit your selected imagery and a short justification.
+
+7. **Sonic Identity (Optional - 10 bonus points):**
+   - Choose a sound or theme song that complements your brand (optional).
 
 ---
 
-## **3. AI-Enhanced Story Development**
+### 2. Competitive Analysis Using Pinterest
+#### **Objective:**
+Conduct a competitive analysis of student and professional portfolios to gather design inspiration and identify effective elements.
 
-### **3.1 Story Generation and Enhancement**
-- **Plot Development:**
-  - Use ChatGPT or Claude to outline brand narratives.
-- **Character Creation:**
-  - Develop relatable characters and archetypes using Jasper.ai.
-- **Narrative Expansion:**
-  - Refine and expand brand stories for different audiences.
-- **Story Validation:**
-  - Ensure consistency and resonance using tools like IBM Watson Tone Analyzer.
-
-### **3.2 Content Optimization**
-- **Emotional Resonance:**
-  - Use AI to test emotional impact and refine tone.
-- **Audience Alignment:**
-  - Match stories to demographic insights and preferences.
-- **Cultural Sensitivity:**
-  - Check for cultural relevance and avoid missteps using Resonance AI.
-- **Brand Consistency:**
-  - Align stories with overarching brand identity.
+#### **Assignment: Competitive Analysis (10 points)**
+1. **Search for Portfolios:**
+   - Use Pinterest or other platforms (e.g., Behance, Dribbble) to find relevant examples.
+2. **Create a Pinterest Board:**
+   - Save 5-10 examples of portfolio websites that inspire you.
+3. **Write a Short Reflection:**
+   - What stood out in the portfolios?
+   - How were branding elements integrated?
+   - How do these portfolios effectively showcase skills?
+4. **Deliverable:** Submit a link to your Pinterest board and a 100-word reflection.
 
 ---
 
-## **4. Visual Storytelling with AI**
+### 3. Begin Your Personal Portfolio Website
+#### **Objective:**
+Start building a portfolio website to showcase your personal brand and work.
 
-### **4.1 Story Visualization**
-- **Storyboard Creation:**
-  - Design storyboards for campaigns using Adobe Express or Canva AI.
-- **Image Sequence Design:**
-  - Generate story illustrations using MidJourney and DALL-E.
-- **Motion Graphics:**
-  - Create dynamic narratives with Kapwing or InVideo.
+#### **Assignment: Figma Wireframe (30 points):**
+1. **Use Figma to Wireframe Your Portfolio Website:**
+   - Design a wireframe (blueprint) for the website structure, including:
+     - **Homepage:** Introduce yourself with your logo, tagline, and brand voice.
+     - **About Page:** Highlight your vision, values, and mission.
+     - **Portfolio/Projects Page:** Placeholder for future work or current projects.
+     - **Contact Page:** Include a form or email link for inquiries.
+   - **Deliverable:** Submit your Figma wireframe for feedback.
 
-### **4.2 Multi-Platform Story Design**
-- **Platform-Specific Adaptation:**
-  - Tailor stories for Instagram, LinkedIn, and YouTube audiences.
-- **Visual Consistency:**
-  - Use Adobe Firefly to ensure cohesive visuals across platforms.
-- **Cross-Media Integration:**
-  - Plan seamless narratives that transition across video, web, and social media.
-
----
-
-## **5. Brand Story Implementation**
-
-### **5.1 Story Integration**
-- **Website Narratives:**
-  - Embed compelling brand stories into About pages and case studies.
-- **Social Media Stories:**
-  - Craft Instagram stories and TikTok videos highlighting brand values.
-- **Marketing Materials:**
-  - Incorporate storytelling into brochures, presentations, and advertisements.
-
-### **5.2 Story Performance**
-- **Engagement Metrics:**
-  - Use tools like Sprout Social to track likes, shares, and comments.
-- **Emotional Impact:**
-  - Analyze audience responses using Persado or IBM Watson.
-- **Audience Response:**
-  - Gather feedback and refine stories based on real-world interactions.
+#### **Assignment: Portfolio Website Draft (100 points):**
+1. **Choose a Website Platform:**
+   - Beginner-friendly: Wix, Squarespace, Canva Websites.
+   - Advanced: Vercel (for professional, scalable sites).
+2. **Develop and Design:**
+   - Use your Figma wireframe as a guide.
+   - Integrate your branding elements (logo, colors, fonts, imagery).
+3. **Accessibility Check:**
+   - Test your site with WebAIM Contrast Checker.
+4. **Publish:**
+   - Advanced users should deploy their portfolio on Vercel.
+5. **Deliverable:**
+   - Submit either a live link or screenshots of your portfolio draft (minimum 2 pages: homepage and about page).
 
 ---
 
-## **Practical Exercises**
-
-### **1. Story Development Exercise**
-**Using ChatGPT/Claude:**
-- Input brand mission, values, and customer insights.
-- Generate a story framework based on the Hero’s Journey.
-- Refine the story with AI-driven suggestions.
-
-### **2. Visual Story Creation**
-**Using Adobe Express:**
-- Design a storyboard that outlines the flow of a brand campaign.
-- Use MidJourney to generate illustrations for key moments.
-- Develop visuals for multi-platform adaptation.
-
-### **3. Story Analysis Project**
-**Using IBM Watson Tone Analyzer:**
-- Input a drafted brand story.
-- Analyze emotional tone and cultural alignment.
-- Adjust narrative elements based on AI insights.
+## Hands-On Activities and Assignments
+### Workshops and Deliverables:
+1. **Logo and Visual Design Workshop (10 points):**
+   - Create logos and visual elements during class using Canva AI, Adobe Express, or Figma.
+2. **Accessibility Challenge (10 points):**
+   - Test and submit your color palette and typography for accessibility.
+3. **Portfolio Draft Review (10 points):**
+   - Collaborate with peers or instructors to review your portfolio draft and wireframe.
 
 ---
 
-## **Recommended AI Tools**
+## Evaluation Criteria
+1. **Visual Brand Identity (30 points):**
+   - Creativity and originality of logo, colors, and typography.
+   - Alignment of visual elements with personal branding.
 
-### **Story Development:**
-- **ChatGPT**: Generate and refine narrative frameworks.
-- **Claude**: Expand character arcs and enhance storytelling flow.
-- **Jasper.ai**: Craft taglines, slogans, and emotional copy.
-- **Story Chief**: Plan and organize content-driven storytelling.
+2. **Competitive Analysis (10 points):**
+   - Thoughtful reflection on portfolio examples and insights gained.
 
-### **Visual Storytelling:**
-- **MidJourney**: Create imaginative brand visuals.
-- **Adobe Express**: Design cohesive storyboards and banners.
-- **Kapwing**: Produce animated and video content.
-- **Canva AI**: Develop story-based graphics and infographics.
+3. **Figma Wireframe (30 points):**
+   - Clear and well-structured wireframe for the portfolio website.
+   - Incorporation of feedback into the wireframe design.
 
-### **Story Analysis:**
-- **IBM Watson Tone Analyzer**: Evaluate tone alignment with brand goals.
-- **Persado**: Analyze emotional appeal and audience connection.
-- **Resonance AI**: Test cultural relevance and impact.
+4. **Portfolio Website Draft (100 points):**
+   - Integration of branding elements.
+   - Clear structure and user-friendly navigation.
+   - For advanced users: Functional deployment on Vercel.
 
----
+5. **Accessibility (10 points):**
+   - Use of accessible colors, fonts, and layouts.
 
-## **Deliverables**
-
-1. **Hero’s Journey Narrative:**
-   - Write a personal or brand-focused Hero’s Journey.
-   - Use AI tools to refine and validate the narrative.
-2. **Visual Storyboard:**
-   - Develop a storyboard for a marketing campaign.
-   - Integrate AI-generated images and motion graphics.
-3. **Story Performance Report:**
-   - Use analytics tools to assess the success of the implemented story.
-   - Provide recommendations for future story improvements.
+6. **Participation in Workshops (20 points total):**
+   - Active participation in logo, color, and portfolio workshops.
 
 ---
 
-### **Course Takeaways**
-This course equips students with the strategic insight and technical skills needed to create meaningful, impactful brands. By blending AI tools with traditional branding principles, students leave with a portfolio that sets them apart in job searches and professional endeavors.
+## Total Points for Module 2: 250
+- **Visual Brand Identity (100 points)**
+- **Competitive Analysis (10 points)**
+- **Figma Wireframe (30 points)**
+- **Portfolio Website Draft (100 points)**
+- **Workshops and Accessibility (10 + 10 = 20 points)**
 
-#BrandingAndAI #PersonalBranding #AIInBranding #AdobeExpress #CareerAdvancement
+---
+
+## Success Metrics
+- Students create a cohesive visual brand identity using tools like Figma, Canva AI, and Coolors.
+- Students complete a thoughtful competitive analysis using Pinterest and incorporate findings into their designs.
+- Students produce a clear wireframe for their portfolio website using Figma.
+- Students complete a draft portfolio website, with advanced users leveraging Vercel for professional deployment.
+- Designs demonstrate an understanding of accessibility and inclusivity.
