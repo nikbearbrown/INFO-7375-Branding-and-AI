@@ -1,4 +1,6 @@
-# The **Harvard Graduate Student Housing Survey** (2005) was designed to assess housing preferences, experiences, and constraints of Harvard graduate students, updating a prior survey from 2001. The survey aimed to inform Harvard Real Estate Services (HRES) on optimizing student housing while supporting the **Allston Initiative**, a major expansion project across the Charles River.
+# The Harvard Graduate Student Housing Survey (2005) 
+
+The **Harvard Graduate Student Housing Survey** (2005) was designed to assess housing preferences, experiences, and constraints of Harvard graduate students, updating a prior survey from 2001. The survey aimed to inform Harvard Real Estate Services (HRES) on optimizing student housing while supporting the **Allston Initiative**, a major expansion project across the Charles River.
 
 ### **Key Findings & Statistics from the 2001 Survey**
 - **Housing Distribution:**
