@@ -1,6 +1,32 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
-# Leveraging Social Media Analytics to Optimize Taproom Experiences and Drive Sales Growth in Craft Breweries
+# **MDP: What additional activities or services can we offer to maximize overall sales and attract new customers?**  
+
+## **RP (Nik Bear Brown)**  
+**Research Question:**  
+*"Can Instagram likes and social media engagement predict which taproom activities and services will increase new and returning customer sales for Aquatic Brewing?"*  
+
+### **Statement:**  
+This research aims to develop a **predictive model** that analyzes **Instagram likes and other social media engagement metrics** to determine which **taproom activities and services** most effectively drive **new and returning customer sales**. By leveraging **SHAP (SHapley Additive exPlanations) values** and **game theory principles**, the model will identify the key features of **high-performing social media posts**, providing actionable insights into **which experiences—such as live music, board games, arcade games, or outdoor seating—attract the most customer interest and visits**.  
+
+### **How it Supports MDP:**  
+
+#### **1. Predictive Sales Insights from Social Media Engagement:**  
+- Examines whether **Instagram likes and engagement metrics** can serve as a reliable predictor of **customer visit behavior and spending habits**.  
+- Helps Aquatic Brewing understand how different **activities and services** contribute to **customer acquisition and retention**.  
+
+#### **2. Optimization of Taproom Offerings & Marketing Strategy:**  
+- Identifies which **experiences and amenities** should be highlighted in future **marketing campaigns** to **maximize overall sales**.  
+- Provides **data-driven recommendations** on **how to structure promotions and events** to attract **new and repeat customers**.  
+
+#### **3. Validation Through Real-World Social Media Experiments:**  
+- Tests the **predictive model** by tracking **real-time engagement on Instagram posts** and measuring actual **customer turnout and spending** in response.  
+- Ensures **practical applicability** by aligning **social media marketing strategies** with **taproom service expansions**.  
+
+By integrating **social media analytics, machine learning, and SHAP-based explainability**, this research will enable **Aquatic Brewing** to make **data-driven decisions** about **which activities and services to enhance**, ultimately leading to **increased sales and customer loyalty**.  
+
+
+
+## Leveraging Social Media Analytics to Optimize Taproom Experiences and Drive Sales Growth in Craft Breweries
 
 ---
 
