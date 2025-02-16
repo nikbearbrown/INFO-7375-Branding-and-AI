@@ -1,4 +1,3 @@
-<img src="https://r2cdn.perplexity.ai/pplx-full-logo-primary-dark%402x.png" class="logo" width="120"/>
 
 # Leveraging AI Tools for Professional Branding Portfolios: Strategies for Showcasing Expertise and Advancing Careers
 
