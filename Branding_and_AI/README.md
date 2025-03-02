@@ -1,4 +1,4 @@
-# **Branding and AI"**
+# **Branding and AI**
 
 ## **Table of Contents**  
 ### *Branding and AI: Transforming Strategy, Research, and Identity with Artificial Intelligence*
